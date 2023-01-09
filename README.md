@@ -1,7 +1,7 @@
 
 <h1 align="center">I'm Ziad Alfakharany</h1>
 <h2 align="center">IOS Developer</h2>
-<h3 align="center">A passionate iOS developer with a love for learning. I am a fast learner with hands-on experience in the latest technologies. Skilled in Appleʼs Xcode development environment with UIKit and Swi�ftUI frameworks using Swi�ft programming language.
+<h3 align="center">A passionate iOS developer with a love for learning. I am a fast learner with hands-on experience in the latest technologies. Skilled in Appleʼs Xcode development environment with UIKit and SwiftUI frameworks using Swift programming language.
     </h3>
 
 ## Technical skills:
