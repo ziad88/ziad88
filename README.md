@@ -17,7 +17,7 @@
 <h3 align="left">Contact:</h3>
 
 
-<img src="https://image.flaticon.com/icons/svg/174/174857.svg" alt="LinkedIn logo" width="35">](https://www.linkedin.com/in/ziad-alfakharany-115a77131/)
+https://www.linkedin.com/in/ziad-alfakharany-115a77131/
 
 ziadalfakharany.dev@gmail.com
 
