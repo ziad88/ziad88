@@ -12,6 +12,7 @@
 - Experience with Firebase different tools including auth, storage and databases.
 - Familiarity with code versioning tools such as Git/GitHub.
 - Good knowledge of working with iOS frameworks such as Core Data, Core Location
+- solid understanding of the IOS app life cycle
 
 <p align="left">
 <h3 align="left">Contact:</h3>
