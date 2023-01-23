@@ -7,7 +7,7 @@
 ## Technical skills:
 - Experience Building IOS/Java/C/IOT applications.
 - working with remote data via REST APIs and JSON Get and Post Calls.
-- working with local data such as SQLServer, SQLLite, MongoDB and Shared Preferences.
+- working with local data such as SQLServer, SQLite, MongoDB and Shared Preferences.
 - third-party libraries and APIs.
 - Experience with Firebase different tools including auth, storage and databases.
 - Familiarity with code versioning tools such as Git/GitHub.
