@@ -1,18 +1,20 @@
 
 <h1 align="center">I'm Ziad Alfakharany</h1>
 <h2 align="center">Software Engineer</h2>
-<h3 align="center">A passionate iOS developer with a love for learning. I am a fast learner with hands-on experience in the latest technologies. Skilled in Appleʼs Xcode development environment with UIKit and SwiftUI frameworks using Swift programming language.
+<h3 align="center">A passionate developer with a love for learning. I am a fast learner with hands-on experience in the latest technologies. Computer Science graduate skilled in java, python, C++ and swift.
     </h3>
 
 ## Technical skills:
-- Building iOS applications.
-- working with remote data via REST APIs and JSON.
-- working with local data such as CodeData, Realm and Shared Preferences.
+- Experience Building IOS/Java/C/IOT applications.
+- working with remote data via REST APIs and JSON Get and Post Calls.
+- working with local data such as SQLLite, MongoDB and Shared Preferences.
 - third-party libraries and APIs.
 - Experience with Firebase different tools including auth, storage and databases.
 - Familiarity with code versioning tools such as Git/GitHub.
-- Good knowledge of working with iOS frameworks such as Core Data, Core Location
-- solid understanding of the IOS app life cycle
+- Good knowledge of application design patterns 
+- solid understanding of computer networks 
+- Good knowledge of working with iOS frameworks
+- solid understanding of the application app life cycle
 
 <p align="left">
 <h3 align="left">Contact:</h3>
