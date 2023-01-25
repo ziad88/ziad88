@@ -5,7 +5,7 @@
     </h3>
 
 ## Technical skills:
-- Experience Building IOS/Java/C/IOT applications.
+- Experience Building IOS/Java/C/Python/IOT applications.
 - working with remote data via REST APIs and JSON Get and Post Calls.
 - working with local data such as SQLServer, SQLite, MongoDB and Shared Preferences.
 - third-party libraries and APIs.
